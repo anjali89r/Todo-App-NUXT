@@ -1,4 +1,4 @@
-# todo App
+# Nuxt todo App
 
 > A basic todo App built with Nuxt.
 
