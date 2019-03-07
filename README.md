@@ -1,6 +1,6 @@
-# todoApp
+# todo App
 
-> This is a todo App build with Nuxt.
+> A basic todo App built with Nuxt.
 
 ## Build Setup
 
