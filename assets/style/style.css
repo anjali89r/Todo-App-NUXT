@@ -1,0 +1,51 @@
+.v-card{
+   margin-bottom: 15px;
+   border-radius: 5px!important;
+}
+.text-center{
+   text-align: center;
+}
+.urgent{
+   color: #ff5507 !important;
+   background-color: #fff;
+}
+.point{
+   cursor: pointer;
+}
+.card-priority{
+   box-shadow: -1px 0px 1px 5px #F77777!important;
+}
+.priority-font{
+   font-weight: bold;
+   color: red;
+}
+.general-font{
+   font-weight: bold;
+}
+.fade-enter-active, .fade-leave-active {
+   transition: opacity .5s;
+ }
+ .fade-enter, .fade-leave-to /* .fade-leave-active below version 2.1.8 */ {
+   opacity: 0;
+ }
+.pt16{
+   padding-top: 16px;
+}
+.mt8{
+   margin-top: 8px;
+}
+.card-text{
+   padding: 10px 13px 11px 14px!important;
+   line-height: 1.7em!important;
+}
+.card-hover:hover{
+   background-color: #e0e0e0e0!important;
+}
+.nav-btn{
+   background-color: #a76f6f!important;
+   color: #fff!important;
+   border-radius: 3px!important;
+}
+.nav-btn:hover{
+   background-color: #b45f5f!important;
+}
